@@ -10,8 +10,12 @@
       </tr>
       <tr>Destination MM: <input type="number" step="0.01" id="destmm" name="destmm" v-model="destmm"></tr>
       <tr>Time Submitted: <input type="datetime-local" id="subtime" name="subtime" v-model="subtime"></tr>
+      <tr>Minimum Time: {{minimumTime}}</tr>
+      <tr>Cleared Time: {{clearedTime}}</tr>
+      <!--
       <tr>Minimum Time: <input readonly="readonly" type="datetime-local" id="mintime" name="mintime" v-model="minimumTime"></tr>
       <tr>Cleared Time: <input readonly="readonly" type="datetime-local" id="clrdtime" name="clrdtime" v-model="clearedTime"></tr>
+      -->
     </table>
   </v-container>
 </template>
