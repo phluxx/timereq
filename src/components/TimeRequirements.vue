@@ -29,6 +29,7 @@ export default {
   name: 'TimeRequirements',
   data: () => {
     return {
+      publicPath: process.env.BASE_URL,
       subtime: new Date().toISOString().replace('Z', ''),
       destmm: 0.00,
       lpocmm: 0.00,
