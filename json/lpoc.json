@@ -1,0 +1,246 @@
+[
+{
+   "ID": "Grand Isle, LA",
+   "Miles": "84.00"
+},
+{
+   "ID": "Fourchon, LA",
+   "Miles": "84.10"
+},
+{
+   "ID": "SWP Lightering",
+   "Miles": "84.20"
+},
+{
+   "ID": "Pascagoula, MS",
+   "Miles": "100.00"
+},
+{
+   "ID": "Gulfport, MS",
+   "Miles": "103.00"
+},
+{
+   "ID": "LOOP via Fairways",
+   "Miles": "106.00"
+},
+{
+   "ID": "Mobile, AL",
+   "Miles": "150.00"
+},
+{
+   "ID": "Panama City, FL",
+   "Miles": "203.00"
+},
+{
+   "ID": "Port Arthur, TX",
+   "Miles": "241.00"
+},
+{
+   "ID": "Nederland, TX",
+   "Miles": "241.10"
+},
+{
+   "ID": "Beaumont, TX",
+   "Miles": "241.20"
+},
+{
+   "ID": "Sabine, TX",
+   "Miles": "241.50"
+},
+{
+   "ID": "Lake Charles, LA",
+   "Miles": "292.00"
+},
+{
+   "ID": "Galveston, TX",
+   "Miles": "319.00"
+},
+{
+   "ID": "Texas City, TX",
+   "Miles": "319.10"
+},
+{
+   "ID": "Houston, TX",
+   "Miles": "333.00"
+},
+{
+   "ID": "Freeport, TX",
+   "Miles": "348.00"
+},
+{
+   "ID": "Port Manatee, FL",
+   "Miles": "372.00"
+},
+{
+   "ID": "Tampa, FL",
+   "Miles": "372.10"
+},
+{
+   "ID": "Point Comfort, TX",
+   "Miles": "377.00"
+},
+{
+   "ID": "Corpus Christi, TX",
+   "Miles": "430.00"
+},
+{
+   "ID": "Progresso, MX",
+   "Miles": "449.00"
+},
+{
+   "ID": "Brownsville, TX",
+   "Miles": "473.00"
+},
+{
+   "ID": "Havana, CU",
+   "Miles": "512.00"
+},
+{
+   "ID": "Cancun, MX",
+   "Miles": "517.00"
+},
+{
+   "ID": "Cozumel, MX",
+   "Miles": "517.10"
+},
+{
+   "ID": "Campeche, MX",
+   "Miles": "536.00"
+},
+{
+   "ID": "Cayo Arcas, MX",
+   "Miles": "536.10"
+},
+{
+   "ID": "Altimira, MX",
+   "Miles": "594.00"
+},
+{
+   "ID": "Tampico, MX",
+   "Miles": "603.00"
+},
+{
+   "ID": "Miami, FL",
+   "Miles": "613.00"
+},
+{
+   "ID": "Port Everglades, FL",
+   "Miles": "620.00"
+},
+{
+   "ID": "Cientuegos, CU",
+   "Miles": "628.00"
+},
+{
+   "ID": "Freeport, BS",
+   "Miles": "631.00"
+},
+{
+   "ID": "Tuxpan, MX",
+   "Miles": "632.00"
+},
+{
+   "ID": "Belize City",
+   "Miles": "669.00"
+},
+{
+   "ID": "Veracruz, MX",
+   "Miles": "676.00"
+},
+{
+   "ID": "Coatzacoalcos, MX",
+   "Miles": "690.00"
+},
+{
+   "ID": "Pajaritos, MX",
+   "Miles": "691.00"
+},
+{
+   "ID": "Georgetown, KY",
+   "Miles": "719.00"
+},
+{
+   "ID": "Cayman Islands (Georgetown)",
+   "Miles": "723.50"
+},
+{
+   "ID": "Dos Bocas",
+   "Miles": "730.00"
+},
+{
+   "ID": "Tela, HN",
+   "Miles": "764.00"
+},
+{
+   "ID": "Port Canaveral, FL",
+   "Miles": "772.00"
+},
+{
+   "ID": "Puerto Cortez, HN",
+   "Miles": "821.00"
+},
+{
+   "ID": "Puerto Barrios, GT",
+   "Miles": "825.00"
+},
+{
+   "ID": "Santo Tomas, GT",
+   "Miles": "825.10"
+},
+{
+   "ID": "Kingston, JM",
+   "Miles": "941.00"
+},
+{
+   "ID": "Jacksonville, FL",
+   "Miles": "990.00"
+},
+{
+   "ID": "Savannah, GA",
+   "Miles": "1,025.00"
+},
+{
+   "ID": "Charleston, SC",
+   "Miles": "1,062.00"
+},
+{
+   "ID": "Santiago De Cuba",
+   "Miles": "1,078.00"
+},
+{
+   "ID": "Port au Prince, HT",
+   "Miles": "1,115.00"
+},
+{
+   "ID": "Puerto Plata, DR",
+   "Miles": "1,122.00"
+},
+{
+   "ID": "Wilmington, NC",
+   "Miles": "1,130.00"
+},
+{
+   "ID": "Limon, PR",
+   "Miles": "1,153.00"
+},
+{
+   "ID": "Morehead City, NC",
+   "Miles": "1,173.00"
+},
+{
+   "ID": "Braucio Carillo, CR",
+   "Miles": "1,174.00"
+},
+{
+   "ID": "Limon, CR",
+   "Miles": "1,174.10"
+},
+{
+   "ID": "Santa Domingo, DO",
+   "Miles": "1,226.00"
+},
+{
+   "ID": " Over 96 Hours",
+   "Miles": "1,344.00"
+}
+]
