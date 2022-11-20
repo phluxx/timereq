@@ -10,13 +10,14 @@
   </v-app>
 </template>
 
-<script>
-import TimeRequirements from './components/TimeRequirements';
+<script lang="ts">
+import TimeRequirements from './components/TimeRequirements.vue';
 import lpoc from '../json/lpoc.json';
 import destination from '../json/destination.json';
+import { defineComponent } from "vue";
 import { LPOC } from './type/lpoc';
 
-export default {
+export default defineComponent({
   name: 'App',
 
   components: {
@@ -24,16 +25,16 @@ export default {
   },
 
   data: () => ({
-    lpoc: undefined,
-    destination: undefined,
+    lpoc: undefined as LPOC[] | undefined,
+    destination: undefined as LPOC[] | undefined,
   }),
   mounted() {
     this.lpoc = lpoc.map(
       item => new LPOC(item.ID, parseFloat(item.Miles.replace(/,/g, '')))
-    ).sort((a, b) => a.label.localeCompare(b.label));
+    ).sort((a, b) => a.title.localeCompare(b.title));
     this.destination = destination.map(
-      item => new LPOC(item.Destination, parseFloat(item["Mile Marker"]))
-    ).sort((a, b) => a.label.localeCompare(b.label));
+      item => new LPOC(item.Destination, item["Mile Marker"])
+    ).sort((a, b) => a.title.localeCompare(b.title));
   }
-};
+});
 </script>
