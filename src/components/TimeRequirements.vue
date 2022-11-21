@@ -51,19 +51,16 @@ export default {
   },
   computed: {
     lpochrs() {
-      return this.lpocmm / 14;
+      return Math.ceil(this.lpocmm / 14);
     },
     desthrs() {
-      return this.destmm / 10
-    },
-    subtimehrs() {
-      return this.lpochrs + this.desthrs;
+      return Math.ceil(this.destmm / 10);
     },
     clearedTime() {
-      return new Date(this.etatime).addHours(-this.desthrs).toISOString().replace('Z', '')
+      return new Date(this.etatime).addHours(-this.desthrs)
     },
     minimumTime() {
-      return new Date(this.subtime).addHours(this.lpochrs - this.desthrs).toISOString().replace('Z', '')
+      return new Date(this.subtime).addHours(this.lpochrs - this.desthrs)
     }
   }
 }
